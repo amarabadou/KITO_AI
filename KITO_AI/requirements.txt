@@ -1,6 +1,0 @@
-ollama
-sentence-transformers
-numpy
-colorama
-edge-tts
-pygame
