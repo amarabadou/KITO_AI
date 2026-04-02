@@ -32,7 +32,7 @@ Basic Authentication System: Password-based access control
 
 # Installation & Setup
 1. Clone the repository:
- git clone https://github.com/amarabadou/KITO-AI.git
+git clone https://github.com/amarabadou/KITO_AI.git
  cd KITO-AI
 2. Install dependencies:
    pip install -r requirements.txt
