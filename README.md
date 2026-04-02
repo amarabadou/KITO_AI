@@ -20,14 +20,15 @@ Basic Authentication System: Password-based access control
 7. Persistence: Both user input and assistant response are stored in the database.
 
 # Technologies Used
-Python 3.10+
-Ollama (LLaMA3)
-SQLite
-Sentence Transformers
-NumPy
-Edge-TTS
-Pygame
-Colorama
+
+- Python 3.10+
+- Ollama (LLaMA3)
+- SQLite
+- Sentence Transformers
+- NumPy
+- Edge-TTS
+- Pygame
+- Colorama
 
 # Installation & Setup
 1. Clone the repository:
