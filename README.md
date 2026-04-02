@@ -33,7 +33,7 @@ KITO is a local AI assistant powered by LLaMA3 that supports real-time conversat
 # Installation & Setup
 1. Clone the repository:
 - git clone https://github.com/amarabadou/KITO_AI.git
-- cd KITO-AI
+- cd KITO-AI/KITO_AI
 2. Install dependencies:
    pip install -r requirements.txt
 3. Pull the Ollama model:
