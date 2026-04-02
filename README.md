@@ -44,10 +44,11 @@ Colorama
 KITO uses a passcode-based access system. The default password hash is stored in the code. To change the password, modify the USER_PASSWORD_HASH value.
 
 # Limitations
--Memory retrieval is linear (not optimized for large datasets)
--Basic security (not production-level)
--Terminal-based interface only
--No filtering of irrelevant stored data
+
+- Memory retrieval is linear (not optimized for large datasets)
+- Basic security (not production-level)
+- Terminal-based interface only
+- No filtering of irrelevant stored data
 
 # Author
 Ammar Abadou Computer Science student
