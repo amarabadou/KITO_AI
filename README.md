@@ -2,6 +2,8 @@
 KITO is a local AI assistant powered by LLaMA3 that supports real-time conversation, voice interaction, and persistent memory.  Unlike basic chatbots, KITO is designed to simulate long-term interaction by storing and retrieving past conversations using semantic similarity, allowing more contextual and human-like responses over time.
 
 
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famarabadou%2FKITO_AI&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 - Persistent Memory: Stores conversations in a local SQLite database and reloads them on startup.
 - Semantic Memory Retrieval: Uses embeddings (Sentence Transformers) to retrieve relevant past conversations.
 - Real-Time Streaming Responses: Generates responses token-by-token using LLaMA3 via Ollama.
