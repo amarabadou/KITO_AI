@@ -42,7 +42,7 @@ KITO is a local AI assistant powered by LLaMA3 that supports real-time conversat
    python main.py
 
 # Authentication
-- THE PASS CODE : CS1
+- # THE PASS CODE : CS1
 - KITO uses a passcode-based access system. The default password hash is stored in the code. To change the password modify the USER_PASSWORD_HASH value.
 
 # Limitations
