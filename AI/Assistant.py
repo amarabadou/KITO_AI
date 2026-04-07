@@ -19,3 +19,5 @@ def get_kito_response(user_input, history):
         stream=True,
         options={'temperature': 0.7}
     )
+
+print(f"{Fore.YELLOW}Feedback is welcome! Contact me at: amarabadou1211@gmail.com")
